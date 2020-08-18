@@ -1,21 +1,23 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.b7fb4d6e.chunk.css",
-    "main.js": "/portfolio/static/js/main.724d4bcd.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.724d4bcd.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.4cd6d254.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.4cd6d254.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.f4f2abbf.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.f4f2abbf.js.map",
     "static/css/2.4707e12a.chunk.css": "/portfolio/static/css/2.4707e12a.chunk.css",
-    "static/js/2.1c742f83.chunk.js": "/portfolio/static/js/2.1c742f83.chunk.js",
-    "static/js/2.1c742f83.chunk.js.map": "/portfolio/static/js/2.1c742f83.chunk.js.map",
+    "static/js/2.a24ea0b4.chunk.js": "/portfolio/static/js/2.a24ea0b4.chunk.js",
+    "static/js/2.a24ea0b4.chunk.js.map": "/portfolio/static/js/2.a24ea0b4.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.80e32a4ba3f9f2512d32b26af0d7c868.js": "/portfolio/precache-manifest.80e32a4ba3f9f2512d32b26af0d7c868.js",
+    "precache-manifest.6aac6e679cb8b6afb9ec65422a7e926a.js": "/portfolio/precache-manifest.6aac6e679cb8b6afb9ec65422a7e926a.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/portfolio/static/css/2.4707e12a.chunk.css.map",
     "static/css/main.b7fb4d6e.chunk.css.map": "/portfolio/static/css/main.b7fb4d6e.chunk.css.map",
-    "static/js/2.1c742f83.chunk.js.LICENSE.txt": "/portfolio/static/js/2.1c742f83.chunk.js.LICENSE.txt",
+    "static/js/2.a24ea0b4.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a24ea0b4.chunk.js.LICENSE.txt",
+    "static/media/getTheNews.png": "/portfolio/static/media/getTheNews.dab659c6.png",
     "static/media/meme.png": "/portfolio/static/media/meme.14840584.png",
     "static/media/pfImg.png": "/portfolio/static/media/pfImg.a8b38818.png",
+    "static/media/phoneShopPrototype.png": "/portfolio/static/media/phoneShopPrototype.a33f1855.png",
     "static/media/raven.png": "/portfolio/static/media/raven.25d0da22.png",
     "static/media/recipe.png": "/portfolio/static/media/recipe.f49df329.png",
     "static/media/splash.png": "/portfolio/static/media/splash.c25020b4.png",
@@ -26,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.f4f2abbf.js",
     "static/css/2.4707e12a.chunk.css",
-    "static/js/2.1c742f83.chunk.js",
+    "static/js/2.a24ea0b4.chunk.js",
     "static/css/main.b7fb4d6e.chunk.css",
-    "static/js/main.724d4bcd.chunk.js"
+    "static/js/main.4cd6d254.chunk.js"
   ]
 }

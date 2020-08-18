@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2c887add893a00fa4f2830327f741678",
+    "revision": "135cab9697377dc4b706a1564e5f151b",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "5dc30fd7e1b0a0c6ef64",
+    "revision": "a37a7b037d06996031f3",
     "url": "/portfolio/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "25c824bd2ba8aa8b2c99",
+    "revision": "d95cdd390bc321dc0f45",
     "url": "/portfolio/static/css/main.b7fb4d6e.chunk.css"
   },
   {
-    "revision": "5dc30fd7e1b0a0c6ef64",
-    "url": "/portfolio/static/js/2.1c742f83.chunk.js"
+    "revision": "a37a7b037d06996031f3",
+    "url": "/portfolio/static/js/2.a24ea0b4.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/portfolio/static/js/2.1c742f83.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.a24ea0b4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "25c824bd2ba8aa8b2c99",
-    "url": "/portfolio/static/js/main.724d4bcd.chunk.js"
+    "revision": "d95cdd390bc321dc0f45",
+    "url": "/portfolio/static/js/main.4cd6d254.chunk.js"
   },
   {
     "revision": "e5284505c87d0b24b753",
     "url": "/portfolio/static/js/runtime-main.f4f2abbf.js"
+  },
+  {
+    "revision": "dab659c6d8403498adfaa618a2a626c3",
+    "url": "/portfolio/static/media/getTheNews.dab659c6.png"
   },
   {
     "revision": "1484058418e78c92a5ce7828cfe200e1",
@@ -34,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a8b388180fe46b20e84a4b0ebadb7c9e",
     "url": "/portfolio/static/media/pfImg.a8b38818.png"
+  },
+  {
+    "revision": "a33f1855c4842e2eb7d0909f2bab2875",
+    "url": "/portfolio/static/media/phoneShopPrototype.a33f1855.png"
   },
   {
     "revision": "25d0da227664323f5d47b65d7bcbe344",
