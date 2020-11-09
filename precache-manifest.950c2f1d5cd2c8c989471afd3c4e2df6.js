@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "135cab9697377dc4b706a1564e5f151b",
+    "revision": "9de711f98179dc3f57abafd21e5a44ac",
     "url": "/portfolio/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/css/2.4707e12a.chunk.css"
   },
   {
-    "revision": "d95cdd390bc321dc0f45",
-    "url": "/portfolio/static/css/main.b7fb4d6e.chunk.css"
+    "revision": "0407bd629ad436b730f7",
+    "url": "/portfolio/static/css/main.233d06bb.chunk.css"
   },
   {
     "revision": "a37a7b037d06996031f3",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.a24ea0b4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d95cdd390bc321dc0f45",
-    "url": "/portfolio/static/js/main.4cd6d254.chunk.js"
+    "revision": "0407bd629ad436b730f7",
+    "url": "/portfolio/static/js/main.39b8ddb6.chunk.js"
   },
   {
     "revision": "e5284505c87d0b24b753",
@@ -30,6 +30,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dab659c6d8403498adfaa618a2a626c3",
     "url": "/portfolio/static/media/getTheNews.dab659c6.png"
+  },
+  {
+    "revision": "e6358c51c9f324915b83316a32f5d4dc",
+    "url": "/portfolio/static/media/headphones.e6358c51.png"
+  },
+  {
+    "revision": "04a583459af651ad13b810d9ed31931c",
+    "url": "/portfolio/static/media/marilynArt.04a58345.png"
   },
   {
     "revision": "1484058418e78c92a5ce7828cfe200e1",
@@ -46,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "25d0da227664323f5d47b65d7bcbe344",
     "url": "/portfolio/static/media/raven.25d0da22.png"
+  },
+  {
+    "revision": "3e220ceb50caa4e08ae45067eaf8c1f4",
+    "url": "/portfolio/static/media/raven_hotel.3e220ceb.png"
   },
   {
     "revision": "f49df329aa1b2e583131e5e5783949ca",

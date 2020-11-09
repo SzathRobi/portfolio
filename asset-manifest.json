@@ -1,24 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b7fb4d6e.chunk.css",
-    "main.js": "/portfolio/static/js/main.4cd6d254.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.4cd6d254.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.233d06bb.chunk.css",
+    "main.js": "/portfolio/static/js/main.39b8ddb6.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.39b8ddb6.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.f4f2abbf.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.f4f2abbf.js.map",
     "static/css/2.4707e12a.chunk.css": "/portfolio/static/css/2.4707e12a.chunk.css",
     "static/js/2.a24ea0b4.chunk.js": "/portfolio/static/js/2.a24ea0b4.chunk.js",
     "static/js/2.a24ea0b4.chunk.js.map": "/portfolio/static/js/2.a24ea0b4.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.6aac6e679cb8b6afb9ec65422a7e926a.js": "/portfolio/precache-manifest.6aac6e679cb8b6afb9ec65422a7e926a.js",
+    "precache-manifest.950c2f1d5cd2c8c989471afd3c4e2df6.js": "/portfolio/precache-manifest.950c2f1d5cd2c8c989471afd3c4e2df6.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.4707e12a.chunk.css.map": "/portfolio/static/css/2.4707e12a.chunk.css.map",
-    "static/css/main.b7fb4d6e.chunk.css.map": "/portfolio/static/css/main.b7fb4d6e.chunk.css.map",
+    "static/css/main.233d06bb.chunk.css.map": "/portfolio/static/css/main.233d06bb.chunk.css.map",
     "static/js/2.a24ea0b4.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a24ea0b4.chunk.js.LICENSE.txt",
     "static/media/getTheNews.png": "/portfolio/static/media/getTheNews.dab659c6.png",
+    "static/media/headphones.png": "/portfolio/static/media/headphones.e6358c51.png",
+    "static/media/marilynArt.png": "/portfolio/static/media/marilynArt.04a58345.png",
     "static/media/meme.png": "/portfolio/static/media/meme.14840584.png",
     "static/media/pfImg.png": "/portfolio/static/media/pfImg.a8b38818.png",
     "static/media/phoneShopPrototype.png": "/portfolio/static/media/phoneShopPrototype.a33f1855.png",
     "static/media/raven.png": "/portfolio/static/media/raven.25d0da22.png",
+    "static/media/raven_hotel.png": "/portfolio/static/media/raven_hotel.3e220ceb.png",
     "static/media/recipe.png": "/portfolio/static/media/recipe.f49df329.png",
     "static/media/splash.png": "/portfolio/static/media/splash.c25020b4.png",
     "static/media/stab.png": "/portfolio/static/media/stab.a73605da.png",
@@ -29,7 +32,7 @@
     "static/js/runtime-main.f4f2abbf.js",
     "static/css/2.4707e12a.chunk.css",
     "static/js/2.a24ea0b4.chunk.js",
-    "static/css/main.b7fb4d6e.chunk.css",
-    "static/js/main.4cd6d254.chunk.js"
+    "static/css/main.233d06bb.chunk.css",
+    "static/js/main.39b8ddb6.chunk.js"
   ]
 }
